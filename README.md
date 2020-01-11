@@ -1,4 +1,4 @@
-# Exploring ASP.NET Core on AWS
+# Exploring ASP.NET Core on AWS Test edit
 
 This repository goes along with a series of blogs discussing how to deploy ASP.NET Core applications to AWS. Each will have its code in its own branch. with master including the the latest post's code. 
 
